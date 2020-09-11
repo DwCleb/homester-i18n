@@ -35,6 +35,7 @@
   "version": "Version",
   "houseCode": "House code",
   "host": "Host",
+  "owner": "Owner",
   "createdAt": "Created at",
   "brl": "R$ - Brazilian Real",
   "eur": "€ - Euro",
