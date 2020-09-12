@@ -56,5 +56,16 @@
   "code": "Code",
   "copied": "Copied",
   "french": "French",
-  "spanish": "Spanish"
+  "spanish": "Spanish",
+  "createHouseRule": "Create house rule",
+  "houseRuleName": "House rule name",
+  "houseRulesDescription": "House rule description",
+  "editHouseRule": "Edit house rule",
+  "edit": "Edit",
+  "remove": "Remove",
+  "cancel": "Cancel",
+  "yes": "Yes",
+  "no": "No",
+  "removeHouseRule?": "Do you would like to remove this rule?",
+  "doYouHaveASureToRemove?": "Do you have a sure?"
 }
