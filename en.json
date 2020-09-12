@@ -48,5 +48,7 @@
   "leaveHome": "Leave home",
   "members": "Members",
   "houseRules": "House Rules",
-  "addMember": "Add member"
+  "addMember": "Add member",
+  "code": "Code",
+  "copied": "Copied"
 }
