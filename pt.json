@@ -52,5 +52,9 @@
   "addMember": "Adicionar membro",
   "success": "Sucesso",
   "houseUpdateSuccess": "Informações da casa atualizadas com sucesso!",
-  "profileUpdateSuccess": "Perfil atualizado com sucesso!"
+  "profileUpdateSuccess": "Perfil atualizado com sucesso!",
+  "code": "Código",
+  "copied": "Copiado",
+  "french": "Francês",
+  "spanish": "Espanhol"
 }
