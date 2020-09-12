@@ -49,5 +49,8 @@
   "leaveHome": "Sair da casa",
   "members": "Membros",
   "houseRules": "Regras da casa",
-  "addMember": "Adicionar membro"
+  "addMember": "Adicionar membro",
+  "success": "Sucesso",
+  "houseUpdateSuccess": "Informações da casa atualizadas com sucesso!",
+  "profileUpdateSuccess": "Perfil atualizado com sucesso!"
 }

@@ -49,5 +49,8 @@
   "leaveHome": "Leave home",
   "members": "Members",
   "houseRules": "House Rules",
-  "addMember": "Add member"
+  "addMember": "Add member",
+  "success": "Success",
+  "houseUpdateSuccess": "House successfully updated!",
+  "profileUpdateSuccess": "Profile successfully updated!"
 }
