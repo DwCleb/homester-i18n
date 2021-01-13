@@ -67,5 +67,6 @@
   "yes": "Sim",
   "no": "Não",
   "removeHouseRule?": "Você gostaria de remover essa regra?",
-  "doYouHaveASureToRemove?": "Você tem certeza?"
+  "areYouSureToRemove?": "Você tem certeza?",
+  "memberEmail?": "E-mail do membro"
 }
