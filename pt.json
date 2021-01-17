@@ -68,5 +68,6 @@
   "no": "Não",
   "removeHouseRule?": "Você gostaria de remover essa regra?",
   "areYouSureToRemove?": "Você tem certeza?",
-  "memberEmail?": "E-mail do membro"
+  "memberEmail": "E-mail do membro",
+  "genericErrorMessage": "Erro inesperado, tente novamente"
 }
