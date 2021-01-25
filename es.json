@@ -69,5 +69,7 @@
   "removeHouseRule?": "¿Desea eliminar esta regla?",
   "areYouSureToRemove?": "¿Tiene un seguro?",
   "memberEmail": "Correo electrónico del miembro",
-  "genericErrorMessage": "Error inesperado. Vuelve a intentarlo."
+  "genericErrorMessage": "Error inesperado. Vuelve a intentarlo.",
+  "createHouseSuccess": "Casa creada con éxito!",
+  "houseLoginSuccess": "Bienvenido a tu casa!"
 }

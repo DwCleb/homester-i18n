@@ -66,8 +66,10 @@
   "cancel": "Cancel",
   "yes": "Yes",
   "no": "No",
-  "removeHouseRule?": "Do you would like to remove this rule?",
-  "areYouSureToRemove?": "Do you have a sure?",
+  "removeHouseRule?": "Would you like to remove this rule?",
+  "areYouSureToRemove?": "Are you sure?",
   "memberEmail": "Member e-mail",
-  "genericErrorMessage": "Unexpected error, please try again"
+  "genericErrorMessage": "Unexpected error, please try again",
+  "createHouseSuccess": "House successfully created!",
+  "houseLoginSuccess": "Welcome to your house!"
 }
